@@ -1,4 +1,5 @@
 MyGitHubRepo
-============
+===========
 
-Test repository
+
+This is a test epository to explore github.
